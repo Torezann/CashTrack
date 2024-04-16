@@ -32,7 +32,7 @@ Tela de Meus de Investimentos:
 - Esta tela permite que os usuários visualizem os seus investimentos.
 - Os usuários podem adicionar novos investimentos e rastrear seu desempenho ao longo do tempo.
 
-Monitoramento de Investimentos:
+--> Monitoramento de Investimentos:
 - Esta tela permite que o usuário possa acompanhar os investimentos com maiores detalhes, como valor investido, rentabilidade, etc.
 - Os usuários também podem editar seus investimentos, como por exemplo, adicionando mais dinheiro às suas ações.
 
@@ -40,6 +40,6 @@ Tela de Notícias Financeira:
 - Nesta seção, os usuários podem acessar recursos informativos sobre finanças.
 - Oferece recursos interativos, como artigos para ajudar os usuários a se manterem informados a respeito do mundo financeiro.
 
-Detalhes da Notícia:
+--> Detalhes da Notícia:
 - Nesta tela você pode visualizar com mais detalhes as notícias selecionadas na tela anterior.
 
